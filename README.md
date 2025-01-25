@@ -16,11 +16,11 @@
 
 #### 1.1. Основы HTML/JS
 
-[HTMLAcademy](https://htmlacademy.ru/courses/297) 
+- [HTMLAcademy](https://htmlacademy.ru/courses/297) 
 
 #### 1.2. Основы HTML/CSS
 
-[HTMLAcademy](https://htmlacademy.ru/courses/299) _<-- Мы здесь_
+- [HTMLAcademy](https://htmlacademy.ru/courses/299) _<-- Мы здесь_
 
 #### 1.3. Расположение элементов (CSS)
 
