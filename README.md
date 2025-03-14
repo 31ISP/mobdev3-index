@@ -38,9 +38,11 @@
 
 ⬇ Мы здесь
 
-[Лабораторная работа #2](https://github.com/31ISP/mobdev3-lab1)
+[Лабораторная работа #2](https://github.com/31ISP/mobdev3-lab2)
 
 [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
+
+[Лабораторная работа #3](https://github.com/31ISP/mobdev3-lab3)
 
 ## Как выполнять задания
 
